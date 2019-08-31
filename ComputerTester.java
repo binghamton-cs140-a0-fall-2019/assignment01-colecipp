@@ -13,7 +13,7 @@ public class ComputerTester {
         	System.out.println(file3); // T
 		Computer file4 = new Computer("Apple", "Touch", 16, 300, false, 3000.00);
         	System.out.println(file4); // F
-	
+
 	//TODO make 4 different Computer objects with different 
 	//combinations of disk size (two more than a terabyte and two less)
 	//and for each make one an SSD drive and the other not.

@@ -14,3 +14,444 @@ TESTS FOR Computer.java:
 TESTS FOR Computer.java:
 
 TESTS FOR Computer.java:
+
+TESTS FOR Computer.java:
+MSI, Apache, 16GB Memory, 500GB Solid State Drive, Price: $800.00 
+Microsoft, Go, 8GB Memory, 1.1TB Hard Drive, Price: $500.00 
+MSI, GL63, 16GB Memory, 2.0TB Solid State Drive, Price: $1500.00 
+Apple, Touch, 16GB Memory, 300GB Hard Drive, Price: $3000.00 
+
+TESTS FOR Computer.java:
+Date and place of birth: 0000-08-02, Bellport, New York, USA
+Date and place of birth: 0000-08-02, Binghamton, New York, USA
+Date and place of birth: 0002-08-02, Albany, New York, USA
+Date and place of birth: 0000-07-03, Berlin, Germany
+Date and place of birth: 0000-08-21, London, England
+
+TESTS FOR Computer.java:
+Date and place of birth: 0000-08-02, Bellport, New York, USA
+Date and place of birth: 0000-08-02, Binghamton, New York, USA
+Date and place of birth: 0002-08-02, Albany, New York, USA
+Date and place of birth: 0000-07-03, Berlin, Germany
+Date and place of birth: 0000-08-21, London, England
+
+TESTS FOR Computer.java:
+Date and place of birth: 2000-08-02, Bellport, New York, USA
+Date and place of birth: 2000-08-02, Binghamton, New York, USA
+Date and place of birth: 2002-08-02, Albany, New York, USA
+Date and place of birth: 2000-07-03, Berlin, Germany
+Date and place of birth: 2000-08-21, London, England
+
+TESTS FOR Computer.java:
+Date and place of birth: 2000-08-02, Bellport, New York, USA
+Date and place of birth: 2000-08-02, Binghamton, New York, USA
+Date and place of birth: 2002-08-02, Albany, New York, USA
+Date and place of birth: 2000-07-03, Berlin, Germany
+Date and place of birth: 2000-08-21, London, England
+
+TESTS FOR Computer.java:
+Date and place of birth: 2000-08-02, Bellport, New York, USA
+Date and place of birth: 2000-08-02, Binghamton, New York, USA
+Date and place of birth: 2002-08-02, Albany, New York, USA
+Date and place of birth: 2000-07-03, Berlin, Germany
+Date and place of birth: 2000-08-21, London, England
+
+TESTS FOR Computer.java:
+Date and place of birth: 2000-08-02, Bellport, New York, USA
+Date and place of birth: 2000-08-02, Binghamton, New York, USA
+Date and place of birth: 2002-08-02, Albany, New York, USA
+Date and place of birth: 2000-07-03, Berlin, Germany
+Date and place of birth: 2000-08-21, London, England
+
+TESTS FOR Computer.java:
+Date and place of birth: 2000-08-02, Bellport, New York, USA
+Date and place of birth: 2000-08-02, Binghamton, New York, USA
+Date and place of birth: 2002-08-02, Albany, New York, USA
+Date and place of birth: 2000-07-03, Berlin, Germany
+Date and place of birth: 2000-08-21, London, England
+
+TESTS FOR Computer.java:
+Date and place of birth: 2000-08-02, Bellport, New York, USA
+Date and place of birth: 2000-08-02, Binghamton, New York, USA
+Date and place of birth: 2002-08-02, Albany, New York, USA
+Date and place of birth: 2000-07-03, Berlin, Germany
+Date and place of birth: 2000-08-21, London, England
+true
+Above should be true
+true
+Above should be true
+false
+Above should be false
+false
+Above should be false
+true
+Above should be true
+false
+Above should be false
+false
+Above should be false
+false
+Above should be false
+false
+Above should be false
+false
+Above should be false
+
+TESTS FOR Computer.java:
+Date and place of birth: 2000-08-02, Bellport, New York, USA
+Date and place of birth: 2000-08-02, Binghamton, New York, USA
+Date and place of birth: 2002-08-02, Albany, New York, USA
+Date and place of birth: 2000-07-03, Berlin, Germany
+Date and place of birth: 2000-08-21, London, England
+true
+Above should be true
+true
+Above should be true
+false
+Above should be false
+false
+Above should be false
+true
+Above should be true
+false
+Above should be false
+false
+Above should be false
+false
+Above should be false
+false
+Above should be false
+false
+Above should be false
+true
+ABOVE SHOULD BE TRUE
+true
+ABOVE SHOULD BE TRUE
+
+TESTS FOR DOBtester.java:
+Date and place of birth: 2000-08-02, Bellport, New York, USA
+Date and place of birth: 2000-08-02, Binghamton, New York, USA
+Date and place of birth: 2002-08-02, Albany, New York, USA
+Date and place of birth: 2000-07-03, Berlin, Germany
+Date and place of birth: 2000-08-21, London, England
+true
+Above should be true
+true
+Above should be true
+false
+Above should be false
+false
+Above should be false
+true
+Above should be true
+false
+Above should be false
+false
+Above should be false
+false
+Above should be false
+false
+Above should be false
+false
+Above should be false
+true
+ABOVE SHOULD BE TRUE
+true
+ABOVE SHOULD BE TRUE
+
+TESTS FOR StreetUSAddress.java:
+4 Pool rd.
+4400 Vestal PKWY
+Vestal, NY 13902
+65 Country Club rd.
+ggg
+Binghamton, NY 13902
+
+TESTS FOR StreetUSAddress.java:
+4 Pool rd.
+4400 Vestal PKWY
+Vestal, NY 13902
+65 Country Club rd.
+Binghamton, NY 13902
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 2000-08-02, Bellport, New York, USA
+Date and place of birth: 2000-08-02, Binghamton, New York, USA
+Date and place of birth: 2002-08-02, Albany, New York, USA
+Date and place of birth: 2000-07-03, Berlin, Germany
+Date and place of birth: 2000-08-21, London, England
+true
+Above should be true
+true
+Above should be true
+false
+Above should be false
+false
+Above should be false
+true
+Above should be true
+false
+Above should be false
+false
+Above should be false
+false
+Above should be false
+false
+Above should be false
+false
+Above should be false
+true
+ABOVE SHOULD BE TRUE
+true
+ABOVE SHOULD BE TRUE
+
+TESTS FOR ComputerOwner.java:
+
+TESTS FOR Computer.java:
+true
+ABOVE SHOULD PRINT TRUE
+true
+ABOVE SHOULD PRINT TRUE
+true
+ABOVE SHOULD PRINT TRUE
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 2000-08-02, Bellport, New York, USA
+Date and place of birth: 2000-08-02, Binghamton, New York, USA
+Date and place of birth: 2002-08-02, Albany, New York, USA
+Date and place of birth: 2000-07-03, Berlin, Germany
+Date and place of birth: 2000-08-21, London, England
+true
+Above should be true
+true
+Above should be true
+false
+Above should be false
+false
+Above should be false
+true
+Above should be true
+false
+Above should be false
+false
+Above should be false
+false
+Above should be false
+false
+Above should be false
+false
+Above should be false
+true
+ABOVE SHOULD BE TRUE
+true
+ABOVE SHOULD BE TRUE
+
+TESTS FOR Computer.java:
+MSI, Apache, 16GB Memory, 500GB Solid State Drive, Price: $800.00 
+Microsoft, Go, 8GB Memory, 1.1TB Hard Drive, Price: $500.00 
+MSI, GL63, 16GB Memory, 2.0TB Solid State Drive, Price: $1500.00 
+Apple, Touch, 16GB Memory, 300GB Hard Drive, Price: $3000.00 
+
+TESTS FOR ComputerOwner.java:
+
+TESTS FOR Computer.java:
+
+TESTS FOR StreetUSAddress.java:
+4 Pool rd.
+4400 Vestal PKWY
+Vestal, NY 13902
+65 Country Club rd.
+Binghamton, NY 13902
+
+TESTS FOR StreetUSAddress.java:
+4 Pool rd.
+4400 Vestal PKWY
+Vestal, NY 13902
+65 Country Club rd.
+Binghamton, NY 13902
+
+TESTS FOR Computer.java:
+
+TESTS FOR Computer.java:
+JeffDiamonds123948745
+Date and place of birth: Date and place of birth: 1985-06-07, Atlantic City, New Jersey, United States
+40-53 Dowry Lane
+Atlantic City, NJ 12112
+JahmalFreeman123645335
+Date and place of birth: Date and place of birth: 1988-09-09, Bellport, New York, United States
+24 Albert Lane
+Bellport, NY 12112
+ShrekSwampert122739445
+Date and place of birth: Date and place of birth: 1982-04-05, Brooklyn, New York, United States
+88 Apple Street
+Brooklyn, NY 12112
+SpackJacker920361352
+Date and place of birth: Date and place of birth: 1982-04-05, Patchogue, New York, United States
+4 Main Street
+Patchogue, NY 12112
+
+TESTS FOR Computer.java:
+JeffDiamonds123948745
+Date and place of birth: Date and place of birth: 1985-06-07, Atlantic City, New Jersey, United States
+40-53 Dowry Lane
+Atlantic City, NJ 12112
+JahmalFreeman123645335
+Date and place of birth: Date and place of birth: 1988-09-09, Bellport, New York, United States
+24 Albert Lane
+Bellport, NY 12112
+ShrekSwampert122739445
+Date and place of birth: Date and place of birth: 1982-04-05, Brooklyn, New York, United States
+88 Apple Street
+Brooklyn, NY 12112
+SpackJacker920361352
+Date and place of birth: Date and place of birth: 1982-04-05, Patchogue, New York, United States
+4 Main Street
+Patchogue, NY 12112
+
+TESTS FOR Computer.java:
+JeffDiamonds123948745
+Date and place of birth: Date and place of birth: 1985-06-07, Atlantic City, New Jersey, United States
+40 Dowry Lane
+Atlantic City, NJ 12112
+JahmalFreeman123645335
+Date and place of birth: Date and place of birth: 1988-09-09, Bellport, New York, United States
+24 Albert Lane
+Bellport, NY 12112
+ShrekSwampert122739445
+Date and place of birth: Date and place of birth: 1982-04-05, Brooklyn, New York, United States
+88 Apple Street
+Brooklyn, NY 12112
+SpackJacker920361352
+Date and place of birth: Date and place of birth: 1982-04-05, Patchogue, New York, United States
+4 Main Street
+Patchogue, NY 12112
+
+TESTS FOR Computer.java:
+JeffDiamonds123948745
+Date and place of birth: Date and place of birth: 1985-06-07, Atlantic City, New Jersey, United States
+40 Dowry Lane
+Atlantic City, NJ 12112
+JahmalFreeman123645335
+Date and place of birth: Date and place of birth: 1988-09-09, Bellport, New York, United States
+24 Albert Lane
+Bellport, NY 12112
+ShrekSwampert122739445
+Date and place of birth: Date and place of birth: 1982-04-05, Brooklyn, New York, United States
+88 Apple Street
+Brooklyn, NY 12112
+SpackJacker920361352
+Date and place of birth: Date and place of birth: 1982-04-05, Patchogue, New York, United States
+4 Main Street
+Patchogue, NY 12112
+
+TESTS FOR Computer.java:
+JeffDiamonds123948745
+Date and place of birth: Date and place of birth: 1985-06-07, Atlantic City, New Jersey, United States
+40 Dowry Lane
+Atlantic City, NJ 12112
+JahmalFreeman123645335
+Date and place of birth: Date and place of birth: 1988-09-09, Bellport, New York, United States
+24 Albert Lane
+Bellport, NY 12112
+ShrekSwampert122739445
+Date and place of birth: Date and place of birth: 1982-04-05, Brooklyn, New York, United States
+88 Apple Street
+Brooklyn, NY 12112
+SpackJacker920361352
+Date and place of birth: Date and place of birth: 1982-04-05, Patchogue, New York, United States
+4 Main Street
+Patchogue, NY 12112
+
+TESTS FOR Computer.java:
+JeffDiamonds123948745
+Date and place of birth: Date and place of birth: 1985-06-07, Atlantic City, New Jersey, United States
+40 Dowry Lane
+Atlantic City, NJ 12112
+JahmalFreeman123645335
+Date and place of birth: Date and place of birth: 1988-09-09, Bellport, New York, United States
+24 Albert Lane
+Bellport, NY 12112
+ShrekSwampert122739445
+Date and place of birth: Date and place of birth: 1982-04-05, Brooklyn, New York, United States
+88 Apple Street
+Brooklyn, NY 12112
+SpackJacker920361352
+Date and place of birth: Date and place of birth: 1982-04-05, Patchogue, New York, United States
+4 Main Street
+Patchogue, NY 12112
+
+TESTS FOR Computer.java:
+JeffDiamonds123948745
+Date and place of birth: Date and place of birth: 1985-06-07, Atlantic City, New Jersey, United States
+40 Dowry Lane
+Atlantic City, NJ 12112
+JahmalFreeman123645335
+Date and place of birth: Date and place of birth: 1988-09-09, Bellport, New York, United States
+24 Albert Lane
+Bellport, NY 12112
+ShrekSwampert122739445
+Date and place of birth: Date and place of birth: 1982-04-05, Brooklyn, New York, United States
+88 Apple Street
+Brooklyn, NY 12112
+SpackJacker920361352
+Date and place of birth: Date and place of birth: 1982-04-05, Patchogue, New York, United States
+4 Main Street
+Patchogue, NY 12112
+
+TESTS FOR Computer.java:
+JeffDiamonds123948745
+Date and place of birth: 1985-06-07, Atlantic City, New Jersey, United States
+40 Dowry Lane
+Atlantic City, NJ 12112
+JahmalFreeman123645335
+Date and place of birth: 1988-09-09, Bellport, New York, United States
+24 Albert Lane
+Bellport, NY 12112
+ShrekSwampert122739445
+Date and place of birth: 1982-04-05, Brooklyn, New York, United States
+88 Apple Street
+Brooklyn, NY 12112
+SpackJacker920361352
+Date and place of birth: 1982-04-05, Patchogue, New York, United States
+4 Main Street
+Patchogue, NY 12112
+
+TESTS FOR Computer.java:
+JeffDiamonds123948745
+Date and place of birth: 1985-06-07, Atlantic City, New Jersey, United States
+40 Dowry Lane
+Atlantic City, NJ 12112
+JahmalFreeman123645335
+Date and place of birth: 1988-09-09, Bellport, New York, United States
+24 Albert Lane
+Bellport, NY 12112
+ShrekSwampert122739445
+Date and place of birth: 1982-04-05, Brooklyn, New York, United States
+88 Apple Street
+Brooklyn, NY 12112
+SpackJacker920361352
+Date and place of birth: 1982-04-05, Patchogue, New York, United States
+4 Main Street
+Patchogue, NY 12112
+
+TESTS FOR Computer.java:
+Jeff Diamonds
+123948745
+Date and place of birth: 1985-06-07, Atlantic City, New Jersey, United States
+40 Dowry Lane
+Atlantic City, NJ 12112
+Jahmal Freeman
+123645335
+Date and place of birth: 1988-09-09, Bellport, New York, United States
+24 Albert Lane
+Bellport, NY 12112
+Shrek Swampert
+122739445
+Date and place of birth: 1982-04-05, Brooklyn, New York, United States
+88 Apple Street
+Brooklyn, NY 12112
+Spack Jacker
+920361352
+Date and place of birth: 1982-04-05, Patchogue, New York, United States
+4 Main Street
+Patchogue, NY 12112
